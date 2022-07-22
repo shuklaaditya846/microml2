@@ -16,7 +16,7 @@ Python module ```everywhereml```
 Little bit Python and C++
 
 ## Get Started
-1. First flash the file inside the folder "simple-logging-of-data".
+1. First flash the file inside the folder "[simple-logging-of-data](https://github.com/shuklaaditya846/microml2/tree/main/simple_logging_of_data)".
 You can check if things are working fine by taking a look at Serial Monitor.
 ![image1](https://user-images.githubusercontent.com/23453334/180440388-0ad01f60-d482-4236-b1fa-c5367becee36.jpg)
 
