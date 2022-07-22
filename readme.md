@@ -24,7 +24,7 @@ You can check if things are working fine by taking a look at Serial Monitor.
 2. In order to use it, you have to have the module 'everywhereml'.
 It can be installed by ```pip3 install everywhereml>=0.0.3```
 
-3. You can start collecting the data once you've installed all the dependencies. Go to the Jupyter notebook linked above. The python script will lead you through.
+3. You can start collecting the data once you've installed all the dependencies. Go to the [Jupyter notebook linked above](https://github.com/shuklaaditya846/microml2/blob/main/continous-motion-classification.ipynb). The python script will lead you through.
 
 * You can run it as a simple python file in any terminal. You don't necessarily have to use Jupyter.
 
