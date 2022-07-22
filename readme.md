@@ -1,5 +1,6 @@
 # Continuous Physical Motion Detection
-![Project in action](https://github.com/[shuklaaditya846]/[microml2]/blob/[main]/image2.gif?raw=true)
+https://user-images.githubusercontent.com/23453334/180441656-d343efc4-038b-4250-9f0e-4fa6b16f0a51.mp4
+
 
 
 ## Project Description
@@ -17,7 +18,7 @@ Little bit Python and C++
 ## Get Started
 1. First flash the file inside the folder "simple-logging-of-data".
 You can check if things are working fine by taking a look at Serial Monitor.
-![Serial Monitor Output](https://github.com/[shuklaaditya846]/[microml2]/blob/[main]/image1.jpg?raw=true)
+![image1](https://user-images.githubusercontent.com/23453334/180440388-0ad01f60-d482-4236-b1fa-c5367becee36.jpg)
 
 
 2. In order to use it, you have to have the module 'everywhereml'.
@@ -32,3 +33,7 @@ It can be installed by ```pip3 install everywhereml>=0.0.3```
 5. 2 files will be generated once the process is complete; Classifier.h and Pipeline.h inside a filder 'mpuClassify'. This is also presented as an Example here.
 
 6. Now you're done with this part. Go ahaead and flash it onto your microcontroller. Fire up the serial monitor and see things in action.
+
+
+https://user-images.githubusercontent.com/23453334/180442386-5c94c7df-bf06-44b5-b436-1f378a59d19d.mp4
+
